@@ -8,7 +8,7 @@ Priority: optional
 Homepage: https://github.com/Vitexus/bash-wakatime
 
 Package: bash-wakatime
-Depends: ${misc:Depends},bash
+Depends: ${misc:Depends},bash, wakatime-cli
 Architecture: all
 Section: office
 Priority: optional
